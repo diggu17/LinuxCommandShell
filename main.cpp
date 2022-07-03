@@ -5,9 +5,10 @@
 int main(void)
 {
 
-const char *cmd = "gnome-terminal  --title=\"DRASHTI SAHU SHELL\" --geometry=160x40 -- bash -c \"./terminal\"";
+const char *cmd = "gnome-terminal  --title=\"Digvijay's SHELL\" --geometry=160x40 -- bash -c \"./terminal\"";
 
 system(cmd);
+  
 
 
 }
